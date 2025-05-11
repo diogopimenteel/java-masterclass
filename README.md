@@ -12,6 +12,7 @@
   - [boolean](#boolean)
 - [String](#string)
   - [String vs StringBuilder](#string-vs-stringbuilder)
+  - [Method](#method)
 
 ## Primitive types
 
@@ -160,3 +161,9 @@ char t = (char) -1; // t becomes 65535 due to unsigned representation
 - Both are classes, but the String class is in a special category in the java language
 
 - The String is so instrinsic to the java language, it can be used like a 9th primitive type
+
+## Method
+
+- A method is a collection of statements, one or more, that perform an operation
+
+- The main method is the entry point for any java code, and java looks for this main method to start and run the program
